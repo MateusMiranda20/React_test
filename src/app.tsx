@@ -98,8 +98,7 @@ export default function App() {
         </header>
       </section >
       <div className='footer'>
-        <p>Clique duas vezes para editar uma tarefa</p>
-        <p>Criado pela equipe TodoMVC</p>
+        <p>Criado por Mateus Miranda</p>
         <p>Parte do <a href="https://todomvc.com/">TodoMVC</a></p>
       </div>
     </>
