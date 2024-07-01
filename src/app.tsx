@@ -58,7 +58,7 @@ export default function App() {
     <>
       <section>
         <header>
-          <h1>Todos</h1>
+          <h1>Fazeres</h1>
           <div className='container'>
             <input
               onKeyDown={inputClick}
